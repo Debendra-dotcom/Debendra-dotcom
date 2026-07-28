@@ -1,158 +1,251 @@
+<!--
+  ██████╗ ███████╗██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗
+  ██╔══██╗██╔════╝██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+  ██║  ██║█████╗  ██████╔╝█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+  ██║  ██║██╔══╝  ██╔══██╗██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+  ██████╔╝███████╗██████╔╝███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+  ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+  Thanks for peeking at the source. This profile was hand-crafted
+  with love, caffeine, and a healthy respect for div centering.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Debendranath%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Debendranath%20Malik&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Debendranath+%F0%9F%91%8B;Software+Engineer+%7C+AI+%2F+ML+Engineer;B.Tech+CSE+(AI)+%7C+Bhubaneswar%2C+India;Building+Intelligent+Systems+with+Python+%26+ML;Always+Learning.+Always+Building." alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=780&lines=Hi+there%2C+I'm+Debendranath+%F0%9F%91%8B;Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Turning+%E2%98%95+into+Code+since+day+one;Building+Intelligent+Systems+with+Python+%F0%9F%90%8D;Currently+Mastering+Deep+Learning+%F0%9F%A7%A0;Open+to+Collaboration+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Debendra-dotcom&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Debendra-dotcom?label=Followers&style=for-the-badge&color=8a2be2" alt="followers"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Debendra-dotcom&label=Profile%20Views&color=8a2be2&style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Debendra-dotcom.Debendra-dotcom&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Debendra-dotcom?label=Followers&style=for-the-badge&color=00F5FF&labelColor=0F2027)](https://github.com/Debendra-dotcom?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Debendra-dotcom?label=Stars&style=for-the-badge&color=8A2BE2&labelColor=0F2027)](https://github.com/Debendra-dotcom?tab=repositories)
 
 </div>
 
-<!-- ============================ ABOUT ME ============================ -->
+<!-- ============================================================ -->
+<!--  NAV / QUICK LINKS                                            -->
+<!-- ============================================================ -->
 
-## 🧠 About Me
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-arsenal">Tech Stack</a> •
+  <a href="#-ai--machine-learning">AI/ML</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-analytics">Stats</a> •
+  <a href="#-goals-for-2026">Goals</a> •
+  <a href="#-lets-connect">Contact</a>
+</p>
 
-<img align="right" alt="AI coding" width="340" src="https://raw.githubusercontent.com/mishig25/mishig25/main/customized-svg/aidev.gif" />
-
-```python
-class Debendranath:
-    def __init__(self):
-        self.name = "Debendranath Malik"
-        self.location = "Bhubaneswar, Odisha, India"
-        self.degree = "B.Tech CSE (Artificial Intelligence)"
-        self.role = ["Software Engineer", "AI Engineer", "ML Engineer"]
-        self.languages = ["Python", "Java", "C", "JavaScript", "SQL"]
-        self.currently_learning = [
-            "Machine Learning", "Deep Learning",
-            "Django", "DSA", "Cloud Computing"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile — let's build something intelligent.")
-
-me = Debendranath()
-me.say_hi()
-```
-
-- 🎓 Pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence)**
-- 🤖 Passionate about **AI, Machine Learning & intelligent software systems**
-- 🛠️ Comfortable across the stack — from **Django backends** to **ML pipelines**
-- 📍 Based in **Bhubaneswar, Odisha, India**
-- 🌱 Currently sharpening **DSA, Deep Learning & Cloud Computing**
-- 💬 Ask me about **Python, ML, Django, or Data Science**
-- ⚡ Fun fact: I'd rather debug a model at 2 AM than leave it unfinished
-
-<br/>
-
-<!-- ============================ TECH STACK ============================ -->
-
-## 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20work-00F5FF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0F2027"/>
+  <img src="https://img.shields.io/badge/location-Bhubaneswar,%20Odisha,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F2027"/>
+  <img src="https://img.shields.io/badge/focus-AI%20%2F%20ML%20Engineering-00F5FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0F2027"/>
+</p>
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql" />
-
-### AI / ML / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,pytorch,opencv" />
-
-### Web & Backend
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express,react,bootstrap" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,postman,figma,docker" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp,azure" />
+```
+> whoami
+Debendranath Malik — B.Tech CSE (Artificial Intelligence)
+> mission
+Engineering intelligent, elegant, and scalable software
+> status
+[ ONLINE ] — compiling ideas into code, 24/7
+```
 
 </div>
 
 <br/>
+
+<!-- ============================================================ -->
+<!--  ABOUT ME                                                    -->
+<!-- ============================================================ -->
+
+## 🧬 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+- 🎓 Pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence)**
+- 🌱 On a mission to become a **Software Engineer, AI Engineer & Machine Learning Engineer**
+- 💡 Passionate about building things that sit at the intersection of **software craftsmanship** and **intelligent systems**
+- 🧠 Deeply curious about how machines learn, reason, and perceive the world
+- 🛠️ I love turning abstract ideas into working prototypes — fast
+- 📚 Currently deep-diving into **Deep Learning, Django, DSA, and Cloud Computing**
+- 🧩 Strong believer in clean code, solid fundamentals, and continuous learning
+- ⚡ Fun fact: I debug faster with a cup of coffee in hand ☕
+- 📍 Based in **Bhubaneswar, Odisha, India** — open to remote & on-site opportunities
+
+<br clear="right"/>
+
+> *"I don't just write code — I engineer solutions."*
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  QUOTE OF THE DAY                                             -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### 💬 Quote of the Moment
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  TECH ARSENAL                                                 -->
+<!-- ============================================================ -->
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+### 🧠 Languages & Core
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
+
+### 🗄️ Data & Backend
+
+<img src="https://skillicons.dev/icons?i=django,sqlite,mysql,postgres,nodejs,flask&theme=dark" />
+
+### 🤖 AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,docker&theme=dark" />
+
+### ☁️ Cloud & DevOps *(currently learning)*
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,githubactions,heroku&theme=dark" />
+
+### 🎨 Frontend & Design
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,sass,vite&theme=dark" />
+
+### 🧰 Extras
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,postman,jupyter,latex,regex&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  SKILL PROGRESS BARS                                         -->
+<!-- ============================================================ -->
 
 ## 📊 Skill Proficiency
 
 <div align="center">
 
-| Skill | Proficiency |
-|---|---|
-| Python | ████████████████░░░░ 80% |
-| Java | ██████████████░░░░░░ 70% |
-| C | █████████████░░░░░░░ 65% |
-| JavaScript / HTML / CSS | ██████████████░░░░░░ 70% |
-| SQL | ███████████████░░░░░ 75% |
-| Django | █████████████░░░░░░░ 65% |
-| TensorFlow / Scikit-learn | ████████████░░░░░░░░ 60% |
-| Pandas / NumPy | ███████████████░░░░░ 75% |
-| Git & GitHub | ████████████████░░░░ 80% |
+| Skill | Proficiency | Level |
+|:------|:------------|:------|
+| 🐍 **Python** | ████████████████████ 90% | Advanced |
+| ☕ **Java** | ███████████████░░░░░ 75% | Proficient |
+| 🌐 **JavaScript** | ██████████████░░░░░░ 70% | Proficient |
+| 🔵 **C** | ███████████████░░░░░ 75% | Proficient |
+| 🎨 **HTML / CSS** | ██████████████████░░ 85% | Advanced |
+| 🗃️ **SQL** | ███████████████░░░░░ 75% | Proficient |
+| 🧩 **Django** | █████████████░░░░░░░ 65% | Growing |
+| 🤖 **TensorFlow** | ████████████░░░░░░░░ 60% | Growing |
+| 📈 **Scikit-learn** | █████████████░░░░░░░ 65% | Growing |
+| 🧮 **Pandas / NumPy** | ████████████████░░░░ 80% | Proficient |
+| 🔧 **Git / GitHub** | ██████████████████░░ 88% | Advanced |
 
 </div>
 
 <br/>
 
-<!-- ============================ FOCUS & GOALS ============================ -->
-
-## 🎯 Current Focus
-
-```yaml
-Learning:      Machine Learning, Deep Learning, Django, DSA, Cloud Computing
-Building:      AI-powered mini-projects & full-stack web apps
-Exploring:     Neural Networks, Computer Vision, MLOps fundamentals
-Open To:       Internships, AI/SWE collaborations, Open Source contributions
-```
-
-## 🚀 Goals for 2026
-
-- [ ] Master **Data Structures & Algorithms** end-to-end
-- [ ] Build and deploy **5+ real-world ML models**
-- [ ] Get comfortable with **Cloud Computing (AWS/GCP)**
-- [ ] Contribute to **Open Source AI/ML repositories**
-- [ ] Land an **Internship/Role as an AI or Software Engineer**
-- [ ] Publish technical write-ups on **Dev.to / Medium**
-- [ ] Grow this GitHub profile with consistent, meaningful commits
+---
 
 <br/>
 
-<!-- ============================ AI & ML ============================ -->
+<!-- ============================================================ -->
+<!--  AI & MACHINE LEARNING                                        -->
+<!-- ============================================================ -->
 
 ## 🤖 AI & Machine Learning
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/isometric.svg" />
+<img align="left" width="180" src="https://user-images.githubusercontent.com/74038190/216122065-2f6b4e8f-1531-4b52-9b8d-01a8ad3a3d3a.gif"/>
 
-I'm focused on turning machine learning theory into working, deployable systems — from data preprocessing to model evaluation and beyond.
+I'm building a strong foundation in Artificial Intelligence — from classical ML algorithms to modern deep learning architectures. My current AI/ML journey includes:
 
-**Core areas I work with:**
+- 🔍 **Computer Vision** — image classification & detection pipelines
+- 📈 **Predictive Modeling** — regression & classification with Scikit-learn
+- 🧠 **Neural Networks** — building and training models with TensorFlow
+- 🧪 **Data Wrangling** — cleaning, transforming & analyzing datasets with Pandas & NumPy
+- 🗣️ **NLP & Conversational AI** — exploring intelligent assistants
+- 📚 Continuously studying research papers to stay current with the field
 
-- 🔹 Supervised Learning (Regression & Classification)
-- 🔹 Data Preprocessing & Feature Engineering with **Pandas / NumPy**
-- 🔹 Model building with **Scikit-learn** and **TensorFlow**
-- 🔹 Computer Vision fundamentals (image classification & detection)
-- 🔹 Model evaluation, tuning, and interpretation
+<br clear="left"/>
 
-<br clear="right"/>
+<div align="center">
 
-## 💻 Software Engineering
+```mermaid
+graph LR
+    A[Raw Data] --> B[Preprocessing]
+    B --> C[Feature Engineering]
+    C --> D[Model Training]
+    D --> E[Evaluation]
+    E --> F[Deployment]
+    F --> G((Intelligent System))
+    style A fill:#0F2027,stroke:#00F5FF,color:#fff
+    style B fill:#203A43,stroke:#8A2BE2,color:#fff
+    style C fill:#2C5364,stroke:#00F5FF,color:#fff
+    style D fill:#0F2027,stroke:#8A2BE2,color:#fff
+    style E fill:#203A43,stroke:#00F5FF,color:#fff
+    style F fill:#2C5364,stroke:#8A2BE2,color:#fff
+    style G fill:#111,stroke:#00F5FF,color:#00F5FF
+```
 
-- Writing clean, modular, well-documented code
-- Backend development with **Django**
-- Database design with **SQL**
-- Version control with **Git & GitHub**
-- Strong focus on **problem solving** and **DSA fundamentals**
+</div>
 
 <br/>
 
-<!-- ============================ PROJECTS ============================ -->
+## 💻 Software Engineering
 
-## 🏆 Featured Projects
+- 🏗️ Strong grasp of **OOP principles**, clean architecture, and maintainable code
+- 🔗 Experience building **full-stack web applications** with Django & JavaScript
+- 🗄️ Comfortable designing and querying **relational databases** with SQL
+- 🧪 Practicing **DSA** consistently to sharpen problem-solving skills
+- 🔄 Familiar with **Git workflows**, version control, and collaborative development
+- 🚀 Learning to design systems that scale, following industry best practices
+
+<br/>
+
+## 🌍 Open Source
+
+<div align="center">
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Debendra-dotcom)
+![GitHub Contributions](https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Contributions&query=%24.total&url=https://github-contributions-api.jogruber.de/v4/Debendra-dotcom%3Fyear%3Dlast&style=for-the-badge)
+
+I'm actively looking to contribute to open-source projects in **AI/ML, Django, and Developer Tools**. Contributions, issues, and PRs are always welcome on my repositories!
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  FEATURED PROJECTS                                            -->
+<!-- ============================================================ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -161,35 +254,43 @@ I'm focused on turning machine learning theory into working, deployable systems 
 <td width="50%">
 
 ### 🧠 AI Assistant
-An intelligent assistant built to understand and respond to user queries using AI/ML techniques.
+Personal AI-powered voice/text assistant capable of handling everyday tasks and queries using NLP techniques.
 
-`Python` `AI` `NLP`
+`Python` `AI` `NLP` `Automation`
+
+[![Repo](https://img.shields.io/badge/View-Repository-00F5FF?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 <td width="50%">
 
 ### 🌸 Flower Detection
-An image classification model that identifies flower species using computer vision.
+Deep learning image classification model that identifies flower species from images using CNN architectures.
 
-`Python` `TensorFlow` `CNN`
+`Python` `TensorFlow` `CNN` `Computer Vision`
+
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧑‍💻 Face Detection
-A real-time face detection system built using computer vision techniques.
+### 👤 Face Detection
+Real-time face detection system built with OpenCV and machine learning models for identity recognition tasks.
 
-`Python` `OpenCV` `ML`
+`Python` `OpenCV` `ML` `Computer Vision`
+
+[![Repo](https://img.shields.io/badge/View-Repository-00F5FF?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 <td width="50%">
 
 ### 📱 Mobile Price Prediction
-A machine learning model that predicts mobile phone price ranges from device specs.
+ML regression/classification model predicting mobile phone price ranges based on hardware specifications.
 
-`Python` `Scikit-learn` `Pandas`
+`Python` `Scikit-learn` `Pandas` `ML`
+
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 </tr>
@@ -197,186 +298,300 @@ A machine learning model that predicts mobile phone price ranges from device spe
 <td width="50%">
 
 ### 🛒 Shopping Website
-A full-stack e-commerce web application with product listings and cart functionality.
+Full-stack e-commerce web application with product listings, cart functionality, and clean UI/UX.
 
-`Django` `HTML` `CSS` `JavaScript`
+`Django` `HTML/CSS` `JavaScript` `SQL`
+
+[![Repo](https://img.shields.io/badge/View-Repository-00F5FF?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 <td width="50%">
 
-### ⛅ Weather App
-A responsive web app that fetches and displays real-time weather data.
+### 🌦️ Weather App
+Real-time weather forecasting web app fetching live data via API with a clean, responsive interface.
 
-`JavaScript` `HTML` `CSS` `API`
+`JavaScript` `API` `HTML/CSS`
+
+[![Repo](https://img.shields.io/badge/View-Repository-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom)
 
 </td>
 </tr>
 </table>
 
-</div>
+[![More Projects](https://img.shields.io/badge/Explore-All%20Repositories-blueviolet?style=for-the-badge&logo=github)](https://github.com/Debendra-dotcom?tab=repositories)
 
-> 📌 **Note:** Repository links will be added here as each project is pushed to GitHub — check the **Pinned** section on my profile for the latest.
+</div>
 
 <br/>
 
-<!-- ============================ GITHUB STATS ============================ -->
+---
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  GITHUB ANALYTICS                                             -->
+<!-- ============================================================ -->
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Debendra-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debendra-dotcom&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Debendra-dotcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Debendra-dotcom&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=00F5FF&currStreakLabel=00F5FF" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Debendra-dotcom&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debendra-dotcom&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debendra-dotcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=10" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debendra-dotcom&theme=radical&utcOffset=8" width="49%"/>
 
 </div>
 
-## 🏅 GitHub Trophies
+<br/>
+
+### 🔥 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Debendra-dotcom&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debendra-dotcom&theme=react-dark&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
-## 🐍 Contribution Snake
+<br/>
+
+### 🏆 Trophy Room
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Debendra-dotcom/Debendra-dotcom/output/github-contribution-grid-snake.svg" width="95%"/>
-
-<sub>⚙️ Generated via <code>Platane/snk</code> GitHub Action — add the workflow to your profile repo to activate this animation.</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=Debendra-dotcom&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ============================ QUOTE ============================ -->
+### 🐍 Contribution Snake
 
 <div align="center">
 
-## 💭 Dev Quote
+<img src="https://raw.githubusercontent.com/Debendra-dotcom/Debendra-dotcom/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<sub>⚙️ Snake animation auto-generates via GitHub Actions — see setup note at the bottom of this README.</sub>
 
 </div>
 
 <br/>
 
-<!-- ============================ FUN FACTS ============================ -->
-
-## ⚡ Fun Facts
-
-- 🧩 I enjoy breaking down ML models to understand *why* they work, not just *that* they work
-- ☕ Most of my best debugging happens late at night
-- 📚 I learn best by building — theory sticks once it becomes a project
-- 🌍 From Bhubaneswar, building for a global stage
-- 🔁 This profile is a work in progress — just like me
+---
 
 <br/>
 
-<!-- ============================ CODING PROFILES ============================ -->
+<!-- ============================================================ -->
+<!--  CURRENT FOCUS                                                -->
+<!-- ============================================================ -->
 
-## 🧑‍💻 Coding Profiles
+## 🎯 Current Focus
 
 <div align="center">
 
-<a href="https://leetcode.com/Debendra-dotcom/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/user/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-
-<br/>
-
-<a href="https://dev.to/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://medium.com/@Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-<a href="https://discord.com/users/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+| 🔭 Area | 📌 Details |
+|:---|:---|
+| **Deep Learning** | Neural networks, CNNs & model optimization |
+| **Django** | Building production-ready full-stack apps |
+| **DSA** | Strengthening problem-solving for technical interviews |
+| **Cloud Computing** | AWS / GCP fundamentals & deployment pipelines |
+| **Machine Learning** | Advanced algorithms & real-world datasets |
 
 </div>
 
-> 🔧 Replace each URL above with your actual profile handle/ID once you create these accounts — badges will render regardless, but links should point to real profiles.
+<br/>
+
+## 🗓️ Goals for 2026
+
+- [ ] 🎯 Land a role as a **Software Engineer / AI Engineer**
+- [ ] 🧠 Complete an advanced **Deep Learning specialization**
+- [ ] 🏗️ Ship **3+ production-grade full-stack projects**
+- [ ] ☁️ Get hands-on certified in **Cloud Computing (AWS/GCP)**
+- [ ] 🧩 Solve **300+ DSA problems** across platforms
+- [ ] 🌍 Make **meaningful open-source contributions**
+- [ ] 📝 Publish technical articles on **Dev.to / Medium**
+- [ ] 🤝 Grow a strong developer network & mentor others
 
 <br/>
 
-<!-- ============================ OPEN SOURCE ============================ -->
+---
 
-## 🌐 Open Source
+<br/>
 
-I'm actively looking to contribute to open-source projects related to **Machine Learning, Python tooling, and Django applications**. If you're maintaining a beginner-friendly AI/ML repo, feel free to reach out — I'd love to collaborate.
+<!-- ============================================================ -->
+<!--  FUN FACTS                                                    -->
+<!-- ============================================================ -->
+
+## 🎲 Fun Facts
 
 <div align="center">
 
-![GitHub Contributions](https://img.shields.io/badge/Open%20to-Collaboration-8a2be2?style=for-the-badge)
-![GitHub PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
+<table>
+<tr>
+<td align="center">☕<br/><b>Fuel</b><br/>Coffee-driven development</td>
+<td align="center">🌙<br/><b>Peak Hours</b><br/>Best code written at night</td>
+<td align="center">🧩<br/><b>Hobby</b><br/>Solving logic puzzles & DSA</td>
+<td align="center">🎧<br/><b>Vibe</b><br/>Lo-fi beats while coding</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ============================ CONTACT ============================ -->
+---
 
-## 📬 Contact Me
+<br/>
+
+<!-- ============================================================ -->
+<!--  CODING PROFILES                                              -->
+<!-- ============================================================ -->
+
+## 👨‍💻 Coding Profiles
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin-id" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://your-resume-link.example.com" target="_blank"><img src="https://img.shields.io/badge/Resume-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Debendra-dotcom)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Debendra-dotcom)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Debendra-dotcom)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Debendra-dotcom)
 
 </div>
 
-> ✉️ Replace the email, LinkedIn, and resume links above with your real details before publishing.
+<br/>
+
+## ✍️ Writing & Community
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/Debendra-dotcom)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Debendra-dotcom)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/Debendra-dotcom)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Debendra-dotcom)
+
+</div>
 
 <br/>
 
-<!-- ============================ SUPPORT ============================ -->
+---
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CONTACT                                                      -->
+<!-- ============================================================ -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **AI/ML projects, software engineering roles, internships, freelance work, or open-source collaboration**. Reach out — I usually respond within a day!
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/Debendra-dotcom">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Debendra_dotcom">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/Debendra.dotcom">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  SUPPORT / SPONSOR                                            -->
+<!-- ============================================================ -->
 
 ## ☕ Support My Work
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-<a href="https://github.com/sponsors/Debendra-dotcom" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+If you find my projects useful or inspiring, consider fueling my next build with a coffee, or sponsoring my open-source journey — every bit of support helps me keep learning and shipping!
 
-If my projects or notes have helped you, consider supporting my journey — every bit of encouragement helps me keep building and sharing.
+<a href="https://www.buymeacoffee.com/Debendra.dotcom">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+<a href="https://github.com/sponsors/Debendra-dotcom">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- ============================ FOOTER ============================ -->
+---
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  SNAKE WORKFLOW SETUP NOTE                                    -->
+<!-- ============================================================ -->
+
+<!--
+  To activate the live contribution snake animation above, add this
+  GitHub Actions workflow at:
+  .github/workflows/snake.yml
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */6 * * *"
+    workflow_dispatch: {}
+    push:
+      branches: [ main ]
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Debendra-dotcom
+            outputs: |
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+              dist/github-contribution-grid-snake.svg
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 <div align="center">
 
-### 🙏 Thanks for visiting my profile!
+### 🌌 Thanks for stopping by!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="60"/>
 
-<sub>⭐ From <a href="https://github.com/Debendra-dotcom">Debendra-dotcom</a> — building intelligent systems, one commit at a time.</sub>
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<sub>⭐ If you like what you see, consider starring some of my repositories!</sub>
 
 </div>
 
-<!-- 
-  README structure:
-  1. Hero banner + typing animation
-  2. About Me
-  3. Tech Stack + Skill bars
-  4. Current Focus & 2026 Goals
-  5. AI/ML + Software Engineering sections
-  6. Featured Projects
-  7. GitHub Stats, Streak, Trophies, Activity Graph, Snake
-  8. Fun Facts + Dev Quote
-  9. Coding Profiles
-  10. Open Source
-  11. Contact
-  12. Support
-  13. Footer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&fontColor=00F5FF" width="100%"/>
+
+<!--
+  If you're reading this in the raw markdown, hello fellow builder 👋
+  Replace the placeholder social links (email, LinkedIn, resume, Twitter,
+  Instagram, Buy Me a Coffee, Sponsors) with your real URLs before publishing.
 -->
